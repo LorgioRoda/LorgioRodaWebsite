@@ -66,6 +66,7 @@ export default {};
   margin: 0px 20px;
 }
 .about_me--social a {
+  margin-bottom: 20px;
   font-size: 1.7rem;
   text-decoration: none;
   color: #f1f3f9;
