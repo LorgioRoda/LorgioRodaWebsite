@@ -27,7 +27,8 @@ export default {};
 </script>
 <style>
 .about_me {
-  height: 100vh;
+  display: flex;
+  flex-direction: column;
   font-size: 3vh;
 }
 .about_me h2 {
@@ -74,6 +75,7 @@ export default {};
     display: grid;
     grid-template-columns: 1fr max-content;
     grid-template-rows: [row1-start] 1fr [row1-end] 1fr;
+    height: 100vh;
   }
   .about_me--info {
     margin: 30px 20px;
