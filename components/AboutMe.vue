@@ -29,6 +29,7 @@ export default {};
 .about_me {
   display: flex;
   flex-direction: column;
+  margin: 0px 3.2rem;
   font-size: 3vh;
 }
 .about_me h2 {
