@@ -51,7 +51,7 @@ export default {};
   color: #f1f3f9;
 }
 .about_me--text {
-  margin: 20px;
+  margin: 10px;
   margin-top: 40px;
   font-size: 1.7rem;
   letter-spacing: 1.5px;
